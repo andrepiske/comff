@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name        = 'comff'
-  s.version     = '0.1.0'
+  s.version     = '0.2.1'
   s.licenses    = ['MIT']
   s.summary     = "Configuration loader"
   s.description = ""
